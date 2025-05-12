@@ -74,3 +74,4 @@ y_pred = model.predict(X_test)
 # Print classification report
 print("\n--- Prediction Results ---")
 print(classification_report(y_test, y_pred))
+#Get more data as it is insufficient
