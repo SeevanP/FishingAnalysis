@@ -6,7 +6,7 @@ from sklearn.utils.class_weight import compute_class_weight
 from collections import Counter
 
 # Load your dataset with specified columns (A to C) and rows (1 to 33)
-df = pd.read_excel("Fishing.xlsx", usecols="A:C", nrows=34, header=0)
+df = pd.read_excel("Fishing.xlsx", usecols="A:C", header=0)
 
 # Check the first few rows of data to ensure it's loaded correctly
 print("Original data:")
@@ -58,7 +58,9 @@ print("\nFish class distribution after filtering:")
 print(y.value_counts())
 
 # Train/test split with stratification to ensure balanced classes in both sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42, stratify=y)
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.25, random_state=42, stratify=y
+)
 
 # Compute class weights to handle imbalance
 class_weights = compute_class_weight('balanced', classes=y.unique(), y=y)
