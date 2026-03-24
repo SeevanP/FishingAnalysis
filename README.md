@@ -2,13 +2,13 @@
 
 -This will be an ongoing project and will be updated every few months.
 
-**This project is very important to me as an avid fisherman and lover of nature. I take great pride in the environment and how it is treated. Unlike many projects that rely on downloaded datasets, I wanted to apply knowledge in the real world.
+**This project is very important to me as an avid fisherman and lover of nature. I take great pride in the environment and how it is treated. Unlike many projects that rely on downloaded datasets, I wanted to apply knowledge in the real world.**
 
-My focus is on the prized Spotted Grunter in local South African estuaries, which are fragile ecosystems affected by pollution, overfishing, and habitat loss. I wanted to understand how populations are doing, and over time my curiosity grew—I began exploring how environmental variables influence fish behaviour and catch success.
+**My focus is on the prized Spotted Grunter in local South African estuaries, which are fragile ecosystems affected by pollution, overfishing, and habitat loss. I wanted to understand how populations are doing, and over time my curiosity grew—I began exploring how environmental variables influence fish behaviour and catch success.**
 
-Currently, I’ve collected 247 samples, all caught by my father and me. While this is not yet enough to build a fully predictive model, it forms the foundation for a long-term dataset. My plan is to continue expanding the dataset, including collaborating with local fishing content creators, to target fish sustainably, reduce bycatch, and contribute to conservation.
+**Currently, I’ve collected 247 samples, all caught by my father and me. While this is not yet enough to build a fully predictive model, it forms the foundation for a long-term dataset. My plan is to continue expanding the dataset, including collaborating with local fishing content creators, to target fish sustainably, reduce bycatch, and contribute to conservation.**
 
-This project reflects both my technical and ethical approach: combining data analysis, predictive modeling, and fieldwork to make fishing practices smarter and more sustainable.**
+**This project reflects both my technical and ethical approach: combining data analysis, predictive modeling, and fieldwork to make fishing practices smarter and more sustainable.**
 
 
 
