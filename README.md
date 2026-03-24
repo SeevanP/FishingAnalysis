@@ -32,6 +32,11 @@ Here in the first figure we see what an amazing fisherman I am! Just kidding or 
 
 
 
+
+
+
+
+
 <img width="1000" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/1e2888b1-924c-4981-b735-afc16d0e76af" />
 
 
@@ -39,6 +44,10 @@ Here in the first figure we see what an amazing fisherman I am! Just kidding or 
 > ### Figure.2 (Tidal coefficients and feeding):
 
 Here we see how tidal coefficients can affect fish feeding behavior. Goldilocks strikes again—mid-range tidal coefficients seem “just right.” Not too strong currents, not completely slack (zero movement). Fish can comfortably sit in ambush positions without fighting the current, which I was lucky enough to witness firsthand.
+
+
+
+
 
 
 
@@ -54,11 +63,15 @@ Blacktails seem to enjoy mid-range tidal coefficients as they generally hug stru
 
 
 
+
+
 <img width="800" height="500" alt="Figure_4" src="https://github.com/user-attachments/assets/621f4983-542b-407c-926a-6c4b2fa84fcc" />
 
 > ### Figure.4 (Bait effectiveness):
 
 Trust me when I say I did try a multitude of baits but we see squid reigns supreme. I guess fish like their calamari to ;-)
+
+
 
 
 
