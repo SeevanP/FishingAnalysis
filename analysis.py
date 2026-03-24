@@ -181,3 +181,31 @@ plt.show()
 
 print("Saved plot7_species_tide_location.png")
 """
+
+# ── Plot 7: Spotted Grunter vs Tidal Coefficient by Location ───────────────
+
+df_grunter = df[df['Fish'] == 'Spotted Grunter'].copy()
+
+fig, ax = plt.subplots(figsize=(10, 6))
+
+sns.countplot(
+    data=df_grunter,
+    x='Tidal_Coeff',
+    hue='Location',
+    order=tidal_order,
+    palette='Set2',
+    ax=ax
+)
+
+ax.set_title('Spotted Grunter Catches by Tidal Coefficient and Location',
+             fontsize=14, fontweight='bold')
+ax.set_xlabel('Tidal Coefficient')
+ax.set_ylabel('Number of Grunter Caught')
+ax.tick_params(axis='x', rotation=0)
+
+plt.legend(title='Location')
+plt.tight_layout()
+plt.savefig('plot7_grunter_tide_location.png', dpi=150)
+plt.show()
+
+print("Saved plot7_grunter_tide_location.png")
