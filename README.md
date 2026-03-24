@@ -1,18 +1,19 @@
-Personal project combining my two favourite things, analyzing data and fishing.
+**Personal project combining my two favourite things, analyzing data and fishing.**
 -This will be an ongoing project and will be updated every few months.
 
 
-Problems faced:
+**Problems faced:**
 1.Small dataset: Although I have spent over a year collecting the data myself I realized my dataset is limited for a reliable prediction model.
 THIS DOES NOT MEAN I WILL GIVE UP!!
 
 2.So many variables when it comes to fishing!!!
 
-Mindset shift:
+**Mindset shift:**
 I know they say size doesn't matter and they're right! My small dataset still has valuable information as it can this help keep track of species populations, aiding conservation in 2 important estuaries in Durban, South Africa, that being Durban Harbour and Blue Lagoon.
 
-What have I learnt?
+**What have I learnt?**
 Well fishing is unpredicatable as ever but man is it fun. I can reliably say that tidal coefficients affect these 2 estauries and how feeding is influenced. There will be an update in the coming days showing a graph and fish species amongst them. 
+
 
 Here are some plots and little explanations.
 
