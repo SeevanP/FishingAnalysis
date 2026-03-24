@@ -23,14 +23,16 @@ Well fishing is unpredicatable as ever but man is it fun. I can reliably say tha
 
 <img width="1000" height="500" alt="Figure_1" src="https://github.com/user-attachments/assets/8c2fe9d5-09b5-4c82-b70a-87a30d1182bc" />
 
->### Figure.1 (Species Distribution):
+> ### Figure.1 (Species Distribution):
 Here in the first figure we see what an amazing fisherman I am! Just kidding or am I? What is present though are thornfish. We currently see them dominate these 2 areas especially at Blue Lagoon and once you get through these little bait thieves we can get quality fish like Spotted Grunter. The pink graph represents various species that had few catches to fully define them as their own category such as other grunter species, kingfish(trevally) and kob.
 
 
 
 <img width="1000" height="600" alt="Figure_2" src="https://github.com/user-attachments/assets/1e2888b1-924c-4981-b735-afc16d0e76af" />
 
-> ###Figure.2 (Tidal coefficients and feeding):
+
+
+> ### Figure.2 (Tidal coefficients and feeding):
 
 Here we see how tidal coefficients can affect fish feeding behavior. Goldilocks strikes again—mid-range tidal coefficients seem “just right.” Not too strong currents, not completely slack (zero movement). Fish can comfortably sit in ambush positions without fighting the current, which I was lucky enough to witness firsthand.
 
@@ -47,14 +49,16 @@ Blacktails seem to enjoy mid-range tidal coefficients as they generally hug stru
 
 <img width="800" height="500" alt="Figure_4" src="https://github.com/user-attachments/assets/621f4983-542b-407c-926a-6c4b2fa84fcc" />
 
->###Figure.4 (Bait effectiveness): 
+> ### Figure.4 (Bait effectiveness): 
 Trust me when I say I did try a multitude of baits but we see squid reigns supreme. I guess fish like their calamari to ;-)
 
 
 
 <img width="1000" height="600" alt="Figure_6" src="https://github.com/user-attachments/assets/4238cd0a-e6ba-4471-9fa9-31a5234599b2" />
 
-> ###Figure.5 (Area performance by tidal coefficients):
+
+
+> ### Figure.5 (Area performance by tidal coefficients):
 
 Here we see which area fishes better depending on the tide. Durban Harbour and Blue Lagoon perform differently in certain conditions. Although both are estuaries, the accessible fishing spots vary. Blue Lagoon generally has fishermen along the sides of the river leading to the mouth. Since the mouth is narrow, the current can be strong, making it difficult to keep bait in place. Even when I managed, the fish seemed reluctant to feed. I mean, if I had powerful wind in my face, I’d probably feed my clothes and surroundings more than myself.
 
@@ -71,7 +75,7 @@ Durban Harbour has only one known fishing area: the yacht mole. You can fish off
 <img width="822" height="714" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/14fbce75-3a86-4b9a-a948-bf565395fd7d" />
 
 
-A code snippet showing how data will be visualized for others to understand
+## A code snippet showing how data will be visualized for others to understand
 
 
 <img width="791" height="709" alt="Screenshot (299)" src="https://github.com/user-attachments/assets/ccd5e58f-fc6c-486a-856f-46981d5fd16c" />
