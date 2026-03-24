@@ -16,6 +16,7 @@
 
 
 1. Small dataset: Although I have spent over a year collecting the data myself I realized my dataset is limited for a reliable prediction model.
+
 **THIS DOES NOT MEAN I WILL GIVE UP!!**
 
 2. So many variables when it comes to fishing!!!
