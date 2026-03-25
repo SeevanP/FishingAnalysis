@@ -182,7 +182,8 @@ plt.show()
 print("Saved plot7_species_tide_location.png")
 """
 
-# ── Plot 7: Spotted Grunter vs Tidal Coefficient by Location ───────────────
+# ── Plot 8: Spotted Grunter vs Tidal Coefficient by Location ───────────────
+#Seeing if what I noticed in fugure 3 was correct
 
 df_grunter = df[df['Fish'] == 'Spotted Grunter'].copy()
 
