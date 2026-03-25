@@ -66,7 +66,7 @@ Here we see how tidal coefficients can affect fish feeding behavior. Goldilocks 
 
 > ### Figure.3 (Grunters and Blackktails by tidal coefficients):
 
-These are generally highly sought after fish for eating, I would not know as I do not eat seafood. For grunters we see that low and high tide are dominating. Which aligns with their behaviour I suppose. They are known to cruise outgoing and incoming tides on sandbanks looking for tasty morsels(sand prawn). Low tide allows them to sit and sift through exposed sandbanks; high tide allows them to reach previously inaccessible areas.
+These are generally highly sought after fish for eating, I would not know as I do not eat seafood. I will have to make a new plot about the difference in grunter catches in Blue Lagoon and Durban Harbour depending on tidal coefficients as the current differs between those 2 systems. What I can tell from this though is Blue Lagoon did have higher grunter catch rates on a low tidal coefficient and in Durban Harbour a high tidal coefficient yielded a higher success rate. This may be due to current being more manageable in Blue Lagoon during low tidal coefficients which is highlighted below in figure 5 in terms of catch rate in these 2 systems.
 Blacktails seem to enjoy mid-range tidal coefficients as they generally hug structure and can quickly grab food passing through manageable currents.
 
 
@@ -95,6 +95,21 @@ Trust me when I say I did try a multitude of baits but we see squid reigns supre
 Here we see which area fishes better depending on the tide. Durban Harbour and Blue Lagoon perform differently in certain conditions. Although both are estuaries, the accessible fishing spots vary. Blue Lagoon generally has fishermen along the sides of the river leading to the mouth. Since the mouth is narrow, the current can be strong, making it difficult to keep bait in place. Even when I managed, the fish seemed reluctant to feed. I mean, if I had powerful wind in my face, I’d probably feed my clothes and surroundings more than myself.
 
 Durban Harbour has only one known fishing area: the yacht mole. You can fish off the right side into a massive sandbank. Because the area is wide, the current’s energy spreads out, and feeding fish don’t seem bothered, based on my observation. This does mean that during high tide, casting for specific sandbanks is important—water levels rise, fish aren’t concentrated in one area, and they tend to sit in channels or drop-offs.
+
+
+
+
+
+
+
+<img width="1920" height="967" alt="Figure_7" src="https://github.com/user-attachments/assets/5ef73d23-03a4-4b1e-bf48-c90ead3aedfe" />
+
+
+> ### Figure.6 (Grunter catch rate between Blue Lagoon and Durban Harbour)
+
+So based on Figure.3, I realized I was seeing something interesting. There is a difference in Spotted Grunter catch rate amongst these 2 systems. The optimal feeding times for each location seem to differ between the same species, depending on the location.
+
+
 
 
 ### **Here are some code snippets and their purpose.**
