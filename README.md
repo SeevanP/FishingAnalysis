@@ -29,8 +29,8 @@
 I know they say size doesn't matter and they're right! My small dataset still has valuable information as it can this help keep track of species populations, aiding conservation in 2 important estuaries in Durban, South Africa, that being Durban Harbour and Blue Lagoon.
 
 ## **What have I learnt?**
-Well fishing is unpredicatable as ever but man is it fun. I can reliably say that tidal coefficients affect these 2 estauries and how feeding is influenced. There will be an update in the coming days showing a graph and fish species amongst them. 
 
+Well fishing is unpredicatable as ever but man is it fun. From my observations I can see that tidal coefficients affect feeding habits between these 2 locations. I appreciate learning how 2 estuaries can have different catch success rates depending on current strength.
 
 ## Here are some plots and little explanations.
 
