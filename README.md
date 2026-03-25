@@ -21,6 +21,9 @@
 
 2. So many variables when it comes to fishing!!!
 
+3. While I cannot replicate exact weather, tides and water quality. I did have certain controlled factors such as tackle,bait and selected tidal coefficient days. Each location was consistently fished with 6 months each on every possible weekend.
+
+
 ## **Mindset shift:**
 
 I know they say size doesn't matter and they're right! My small dataset still has valuable information as it can this help keep track of species populations, aiding conservation in 2 important estuaries in Durban, South Africa, that being Durban Harbour and Blue Lagoon.
